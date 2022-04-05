@@ -1,0 +1,44 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Peter Parker",
+        "comment": "Amazing to use letter",
+        "rating": 4
+    },
+
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ea",
+        "name": "Wali Parker",
+        "comment": "I really enjoy sending letter",
+        "rating": 4.7
+    },
+
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6e",
+        "name": "GIIULL FOAM",
+        "comment": "I really enjoy sending letter via handwriting",
+        "rating": 4.8
+    },
+
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6",
+        "name": "Umar Gull",
+        "comment": "I really enjoy sending letter via handwriting",
+        "rating": 4.9
+    },
+
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d",
+        "name": "LE LAVO ",
+        "comment": "Really really enjoy sending letter via handwriting",
+        "rating": 4.9
+    },
+
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362",
+        "name": "CREMO",
+        "comment": "Enjoy sending letter via handwriting",
+        "rating": 5
+    }
+
+]

@@ -1,9 +1,15 @@
 import React from 'react';
+import useReviews from '../../hooks/useReviews';
+import OneReview from '../OneReview/OneReview';
 
 const Review = () => {
+    const [review, setReview] = useReviews();
     return (
         <div>
-            <h3>THis one is for review</h3>
+        <h2>Reviews</h2>
+            {
+        review.map(oneReview =><OneReview key={oneReview.id} oneReview={oneReview}></OneReview>)
+      }
         </div>
     );
 };
