@@ -9,6 +9,7 @@ import Review from './Components/Review/Review';
 
 
 function App() {
+  
   return (
     <div className="App">
       <Header></Header>
@@ -22,6 +23,7 @@ function App() {
         
         <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
+      
     </div>
   );
 }
